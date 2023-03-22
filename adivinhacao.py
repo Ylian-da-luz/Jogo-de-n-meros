@@ -47,4 +47,3 @@ for rodada in range (1, total_de_tentativas +1):
         pontos = pontos - pontos_perdidos
 
 print("Fim de jogo!")
-print("Teste para o commit")
